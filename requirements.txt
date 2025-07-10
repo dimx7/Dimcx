@@ -1,0 +1,21 @@
+# Simple Sentiment Analysis Application - Dependencies
+# Αρχείο dependencies για την εφαρμογή Ανάλυσης Συναισθήματος
+
+# Data manipulation and analysis
+pandas>=1.3.0
+
+# Advanced GUI themes
+ttkthemes>=3.2.0
+
+# Plotting library for pie charts
+matplotlib>=3.3.0
+
+# Note: tkinter is included with Python by default
+# Note: Built-in libraries used (no installation needed):
+# - os
+# - unicodedata  
+# - difflib
+# - re
+# - json
+# - collections
+# - datetime 
